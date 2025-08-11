@@ -14,7 +14,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 👁️ Profile Views
-![](https://visitcount.itsvg.in/api?id=rohitdeka-1&icon=default&color=cyan)
+![Profile views](https://komarev.com/ghpvc/?username=rohitdeka-1)
 
 ## 📈 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rohitdeka-1&limit=5&theme=dark&combine_all_yearly_contributions=true)
