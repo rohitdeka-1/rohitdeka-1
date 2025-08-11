@@ -1,6 +1,7 @@
 # Hi 👋, I'm rohitdeka-1
 
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayur-Pagote&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitdeka-1&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
+
 ## 📊 GitHub Stats:
 ![rohitdeka-1's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitdeka-1&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
