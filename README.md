@@ -8,15 +8,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdeka-1&theme=dark&hide_border=true&layout=compact)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raushan0422&show_icons=true&theme=tokyonight" alt="Raushan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitdeka-1&show_icons=true&theme=tokyonight" alt="Raushan's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raushan0422&theme=tokyonight&hide_border=true" alt="Raushan's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitdeka-1&theme=tokyonight&hide_border=true" alt="Raushan's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raushan0422&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdeka-1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
